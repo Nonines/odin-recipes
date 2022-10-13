@@ -1,8 +1,8 @@
 # The Odin Project: Recipes
 
-This is my 'Recipes' project, the first of [The Odin Project's](https://www.theodinproject.com/) Foundation projects.
+This is my attempt at [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes), the first of [The Odin Project's](https://www.theodinproject.com/) Foundation projects.
 
-It is a basic HTML project that consists of an ``index.html`` page which contains links to other HTML pages containing descriptions of Soup recipes as well lists of their ingredients and directions involved in making them.
+It is a basic HTML project that consists of an ``index.html`` page which contains links to other HTML pages containing Soup recipes.
 
 ## Skills I demonstrated in this project
 * Basic knowledge of HTML and HTML elements.
