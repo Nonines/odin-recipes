@@ -6,9 +6,9 @@ It is a very basic HTML project that consists of an html page which contains lin
 
 ## Skills demonstrated in this project
 
-* Basic knowledge of HTML and HTML elements.
+* Understanding of HTML and basic HTML elements.
 * Links and Images in HTML.
-* Use cases of ordered and unordered lists in HTML.
-* Basic use of Git, as well as the ability to publish a github repository.
-* Markdown syntax.
+* CSS.
+* Git and Github.
+* Markdown.
 * [Live preview](https://nonines.github.io/odin-recipes/)
